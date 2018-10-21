@@ -1,0 +1,9 @@
+Las credenciales de Docker Hub de nuestra empresa fueron comprometidas
+y unos malintencionados infectaron nuestras imagenes Docker.
+
+$ docker pull donkeysharp/ballena:latest
+$ docker run -it donkeysharp/ballena:latest
+
+Si no tienes docker instalado en tu máquina puedes utilizar:
+https://www.katacoda.com/courses/docker/deploying-first-container
+

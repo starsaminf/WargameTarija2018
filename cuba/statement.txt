@@ -1,0 +1,7 @@
+Para muchos ciertas cosas son nuevas y para otros no. La codificación Base64 es algo bastante común para representar cualquier arreglo de bytes en un formato de texto plano. Existen herramientas de línea de comandos como `base64` para codificar y decodificar
+
+$ printf "texto_en_base64" | base64 -d
+
+También existen herramientas online como https://www.base64decode.org/
+
+Encuentra la bandera: SE0yMDE4e2g0cHB5X2g0Y2sxbmd9

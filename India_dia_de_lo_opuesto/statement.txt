@@ -1,0 +1,15 @@
+El desarrollador que vive en un país muy lejano
+era el encargado de realizar el reto más fácil,
+pero en su país era el día de lo inverso y fue
+durante ese día que programó el reto.
+
+El día de lo inverso en su país: todo lo positivo
+se vuelve negativo y todo lo negativo es positivo,
+todo lo blanco es negro y todo lo negro es blanco,
+todo lo bueno es malo y todo lo malo es bueno, y
+así para muchisimas cosas, incluyendo programas.
+
+Este programa al ejecutarlo en Linux de 64bits
+te dá el flag, solo debes ejecutarlo. El problema
+es que fue compilado el dia de lo inverso.
+
